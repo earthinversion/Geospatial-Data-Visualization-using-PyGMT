@@ -1,0 +1,34 @@
+name: geoviz
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h1de35cc_0
+  - ca-certificates=2021.10.26=hecd8cb5_2
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1m=hca72f7f_0
+  - pip=21.2.4=py310hecd8cb5_0
+  - python=3.10.0=hdfd78df_3
+  - readline=8.1.2=hca72f7f_1
+  - setuptools=58.0.4=py310hecd8cb5_0
+  - sqlite=3.37.0=h707629a_0
+  - tk=8.6.11=h7bc2e8c_0
+  - tzdata=2021e=hda174b7_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h4dc903c_4
+  - pip:
+    - cftime==1.5.2
+    - netcdf4==1.5.8
+    - numpy==1.22.1
+    - packaging==21.3
+    - pandas==1.4.0
+    - pygmt==0.5.0
+    - pyparsing==3.0.7
+    - python-dateutil==2.8.2
+    - pytz==2021.3
+    - six==1.16.0
+    - xarray==0.21.0
+prefix: /Users/utpalkumar/miniconda3/envs/geoviz
