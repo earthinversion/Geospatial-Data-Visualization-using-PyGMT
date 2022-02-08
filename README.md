@@ -1,6 +1,11 @@
 ## Geospatial Data Visualization using PyGMT
 This notebook has been created for the BSL talk on Feb 02, 2022 at McCone Hall, University of California, Berkeley
 
+## You can also open the notebooks in the Binder application online...
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthinversion/Geospatial-Data-Visualization-using-PyGMT
+/master)
+
 ## Install libraries
 
 ### Using python env
