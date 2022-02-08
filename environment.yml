@@ -200,4 +200,3 @@ dependencies:
   - zstd=1.5.2=h582d3a0_0
   - pip:
     - gdal==3.4.1
-prefix: /Users/utpalkumar/miniconda3/envs/geoviz
